@@ -1,6 +1,6 @@
 import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
-
+//data
 export const DATA = {
   name: "Mohamed Ashif",
   initials: "MA",
