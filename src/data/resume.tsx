@@ -56,7 +56,7 @@ export const DATA = {
       },
       Resume: {
         name: "Resume",
-        url: "https://drive.google.com/file/d/1CXixYPvqu1Xo02wJNVcy7MlnfZe6Oxi5/view",
+        url: "https://drive.google.com/file/d/1_-q8wMr7ee5DTmWbZqMxl-novoE9-Nvv/view?usp=sharing",
         icon: Icons.googleDrive,
 
         navbar: true,
