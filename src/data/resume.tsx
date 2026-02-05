@@ -71,7 +71,7 @@ export const DATA = {
       location: "Remote",
       title: "Freelance Full Stack Developer",
       logoUrl: "/webgi.png",
-      start: "Nov 2022",
+      start: "Nov 2024",
       end: "Present",
       description:
         "Delivered 3 production web applications to clients, boosting user engagement by 40% through responsive design and performance optimization across 15+ components Engineered SEO-optimized Next.js landing pages, increasing organic traffic by 5% within 3 months of deployment Architected backend systems using Node.js and Express.js, handling 200+ daily API requests with 99.5% uptime Collaborated with 3 cross-functional teams to gather requirements and deliver projects 2 weeks ahead of schedule",
